@@ -1,26 +1,5 @@
 # Python-Guessing-Game
 
-Number Guessing Game (Python)
-Overview
+This Python program offers an engaging number guessing game where the computer randomly selects an integer between 1 and 20. The player is given six attempts to guess the correct number, receiving immediate feedback after each guess to indicate whether their input is too high or too low. The program also intelligently prevents repeated guesses from counting against the player’s limited attempts, enhancing the gameplay experience.
 
-This Python program implements an interactive number guessing game where the computer selects a random integer between 1 and 20. The player is granted six attempts to correctly identify the number. After each guess, the program provides feedback indicating whether the guess was too high or too low, along with the remaining number of attempts.
-
-Features
-
-Prevents repeated guesses from counting against the user’s attempt limit.
-
-Provides clear, real-time feedback to guide the player’s guesses.
-
-Reveals the correct number upon a successful guess or after all attempts are exhausted.
-
-How to Run
-
-Ensure Python is installed on your system.
-
-Save the program file and execute it in a Python environment.
-
-Follow on-screen prompts to input your guesses.
-
-Learning Outcomes
-
-Through this project, users gain experience with random number generation, input handling, control flow constructs like loops and conditionals, and managing state with data structures such as sets. The program also exemplifies user-friendly interaction and error prevention techniques.
+Designed with user interaction and error handling in mind, this project demonstrates key programming concepts such as loops, conditionals, random number generation, and the use of data structures like sets to track guesses. Running this program provides hands-on experience with input validation and control flow, making it an excellent exercise for developing practical Python skills.
